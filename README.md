@@ -1,1 +1,2 @@
-# .github.io
+This code, once you learn basic tags and elements, can be used as a format for coding your own website. If you are using this code for commercial uses, please credit me somewhere on or related to your website.
+-August Carazo Thompson
