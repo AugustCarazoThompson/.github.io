@@ -147,4 +147,4 @@ function updateCircleOnScreen(circle){
     $(circle.id).css('top', circle.y);
 }
 
-});
+)};
